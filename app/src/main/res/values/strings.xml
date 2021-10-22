@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">LAB5</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="todo">TODO</string>
+    <string name="action_bar">Action Bar</string>
+
+    <array name="FastFoodName">
+        <item>Big Mac Burger</item>
+        <item>Pizza Italiano</item>
+        <item>Burger</item>
+        <item>sausage between bread</item>
+        <item>Coca - Cola</item>
+        <item>Ponchik </item>
+        <item>Pizza Cat</item>
+
+        <item>Big Mac Chicken Burger</item>
+        <item>Pizza Italiano</item>
+        <item>Burger</item>
+        <item>sausage between bread</item>
+        <item>Coca - Cola</item>
+        <item>Ponchik </item>
+        <item>Pizza Cat</item>
+    </array>
+    <array name="Description">
+        <item>1 pound ground lean (7% fat) beef.\n
+            1 large egg.\n
+            ½ cup minced onion.\n
+            ¼ cup fine dried bread crumbs.\n
+            1 tablespoon Worcestershire.\n
+            1 or 2 cloves garlic, peeled and minced.\n
+            About 1/2 teaspoon salt.\n
+            About 1/4 teaspoon pepper.</item>
+        <item>1 ball Best Pizza Dough (or Food Processor Dough or Thin Crust Dough)\n
+            ⅓ cup Best Homemade Pizza Sauce.\n
+            ¾ cup shredded mozzarella cheese or 2 to 3 ounces fresh mozzarella.\n
+            3 tablespoons Best Basil Pesto or Basil Cashew Pesto.\n
+            Semolina flour or cornmeal, \n for dusting the pizza peel.</item>
+        <item>Mix ground chicken, 1/4 cup bread crumbs, onion, egg, garlic, salt, and black pepper in a bowl. ...\n
+            Spread remaining 1/4 cup bread crumbs into a shallow dish. ...\n
+            Heat olive oil in a large skillet over medium-high heat.\n
+            Cook patties in hot oil until deep brown in color on the bottom, 5 to 6 minutes.</item>
+        <item>1 lb. ground sausage\n
+            1 tube (13.8 oz.) refrigerated pizza dough\n
+            2 cups (16 oz.) Mozzarella cheese, shredded\n
+            1 large egg, beaten, for brushing on top of loaf</item>
+        <item>1 oz (28 g) caffeine citrate.\n
+            3 oz (85 g) citric acid.\n
+            1 US fl oz (30 ml) vanilla extract.\n
+            1 US qt (946 ml) lime juice.\n
+            2.5 oz (71 g) "flavoring" (i.e., "Merchandise 7X")\n
+            30 lb (14 kg) sugar.\n
+            4 US fl oz (118.3 ml) fluid extract of coca leaves (flavor essence of the coca leaf)</item>
+        <item>8 cups flour.\n
+            ½ teaspoon salt.\n
+            1 cup caster sugar.\n
+            2 packets vanilla sugar (or 1 tablespoon of sugar with ¼ teaspoon of vanilla extract)\n
+            3 eggs.\n
+            3 tablespoons butter (very soft)\n
+            1¼ cup warm milk (at 97 F / 36 ° C), or a little more.\n
+            3 tablespoons vodka.</item>
+        <item>1 1/2 cups (355 ml) warm water (105°F-115°F)\n
+            1 package (2 1/4 teaspoons) active dry yeast.\n
+            3 3/4 cups (490 g) bread flour.\n
+            2 tablespoons extra virgin olive oil (omit if cooking pizza in a wood-fired pizza oven)\n
+            2 teaspoons salt.\n
+            1 teaspoon sugar.</item>
+
+        <item>1 pound ground lean (7% fat) beef.\n
+            1 large egg.\n
+            ½ cup minced onion.\n
+            ¼ cup fine dried bread crumbs.\n
+            1 tablespoon Worcestershire.\n
+            1 or 2 cloves garlic, peeled and minced.\n
+            About 1/2 teaspoon salt.\n
+            About 1/4 teaspoon pepper.</item>
+        <item>1 ball Best Pizza Dough (or Food Processor Dough or Thin Crust Dough)\n
+            ⅓ cup Best Homemade Pizza Sauce.\n
+            ¾ cup shredded mozzarella cheese or 2 to 3 ounces fresh mozzarella.\n
+            3 tablespoons Best Basil Pesto or Basil Cashew Pesto.\n
+            Semolina flour or cornmeal, \n for dusting the pizza peel.</item>
+        <item>Mix ground chicken, 1/4 cup bread crumbs, onion, egg, garlic, salt, and black pepper in a bowl. ...\n
+            Spread remaining 1/4 cup bread crumbs into a shallow dish. ...\n
+            Heat olive oil in a large skillet over medium-high heat.\n
+            Cook patties in hot oil until deep brown in color on the bottom, 5 to 6 minutes.</item>
+        <item>1 lb. ground sausage\n
+            1 tube (13.8 oz.) refrigerated pizza dough\n
+            2 cups (16 oz.) Mozzarella cheese, shredded\n
+            1 large egg, beaten, for brushing on top of loaf</item>
+        <item>1 oz (28 g) caffeine citrate.\n
+            3 oz (85 g) citric acid.\n
+            1 US fl oz (30 ml) vanilla extract.\n
+            1 US qt (946 ml) lime juice.\n
+            2.5 oz (71 g) "flavoring" (i.e., "Merchandise 7X")\n
+            30 lb (14 kg) sugar.\n
+            4 US fl oz (118.3 ml) fluid extract of coca leaves (flavor essence of the coca leaf)</item>
+        <item>8 cups flour.\n
+            ½ teaspoon salt.\n
+            1 cup caster sugar.\n
+            2 packets vanilla sugar (or 1 tablespoon of sugar with ¼ teaspoon of vanilla extract)\n
+            3 eggs.\n
+            3 tablespoons butter (very soft)\n
+            1¼ cup warm milk (at 97 F / 36 ° C), or a little more.\n
+            3 tablespoons vodka.</item>
+        <item>1 1/2 cups (355 ml) warm water (105°F-115°F)\n
+            1 package (2 1/4 teaspoons) active dry yeast.\n
+            3 3/4 cups (490 g) bread flour.\n
+            2 tablespoons extra virgin olive oil (omit if cooking pizza in a wood-fired pizza oven)\n
+            2 teaspoons salt.\n
+            1 teaspoon sugar.</item>
+
+    </array>
+
+</resources>
