@@ -47,12 +47,16 @@ public class DescriptionActivity extends AppCompatActivity {
 
         Intent intent = this.getIntent();
         if(intent!=null){
+            int image = intent.getIntExtra("image",0);
             String name  = intent.getStringExtra("name");
             String des = intent.getStringExtra("des");
+            String ing = intent.getStringExtra("ing");
 
-            all = name +des;
+            all = name + "\n" + ing + "\n" + des;
+            binding.imageId.setImageResource(image);
             binding.fastNameDes.setText(name);
             binding.fastDescription.setText(des);
+            binding.ing.setText(ing);
         }
 
 

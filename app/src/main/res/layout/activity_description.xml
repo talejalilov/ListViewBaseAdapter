@@ -11,6 +11,14 @@
         android:id="@+id/myToolBar"
         layout="@layout/appbar"/>
 
+    <ImageView
+        android:scaleType="fitXY"
+        android:id="@+id/imageId"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@drawable/cat_2"
+        android:contentDescription="@string/todo" />
+
     <TextView
         android:id="@+id/fastNameDes"
         android:layout_width="wrap_content"
@@ -22,6 +30,7 @@
         />
 
     <TextView
+        android:id="@+id/ing"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="18sp"
@@ -29,7 +38,7 @@
         android:textStyle="italic"
         android:layout_marginBottom="15dp"
         android:textColor="#2351DC"
-        android:text="@string/ingredients" />
+        />
 
     <TextView
         android:id="@+id/fastDescription"

@@ -110,4 +110,25 @@
 
     </array>
 
+    <array name="Position">
+        <item>  </item>
+        <item>  </item>
+        <item>  </item>
+        <item>Vegan  </item>
+        <item>  </item>
+        <item>Vegan</item>
+        <item>  </item>
+
+        <item>  </item>
+        <item>  </item>
+        <item>  </item>
+        <item>  </item>
+        <item>  </item>
+        <item>  </item>
+        <item>  </item>
+
+
+
+    </array>
+
 </resources>

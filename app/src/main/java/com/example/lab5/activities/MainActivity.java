@@ -35,9 +35,11 @@ public class MainActivity extends AppCompatActivity {
                 R.drawable.cat_4, R.drawable.cat_6, R.drawable.pizza_cat,R.drawable.burger, R.drawable.cat_1, R.drawable.cat_2, R.drawable.cat_3,
                 R.drawable.cat_4, R.drawable.cat_6, R.drawable.pizza_cat};
         String[] description = resources.getStringArray(R.array.Description);
+        String[] position = resources.getStringArray(R.array.Position);
+        String ingredients = "Ingredients";
 
         for (int i = 0; i <fastPic.length ; i++) {
-            fastList.add(new FastFoodClass(fastFoodName[i], description[i],fastPic[i]));
+            fastList.add(new FastFoodClass(fastFoodName[i], description[i],fastPic[i],position[i], ingredients));
         }
 
         myAdapter = new MyAdapter(fastList, getApplicationContext());
@@ -46,8 +48,10 @@ public class MainActivity extends AppCompatActivity {
         binding.listView.setOnItemClickListener((adapterView, view, i, l) -> {
 
             Intent intent = new Intent(MainActivity.this, DescriptionActivity.class);
+            intent.putExtra("image", fastPic[i]);
             intent.putExtra("name", fastFoodName[i]);
             intent.putExtra("des", description[i]);
+            intent.putExtra("ing", ingredients);
             startActivity(intent);
         });
 

@@ -10,10 +10,12 @@ public class ViewPlaceHolder {
 
     ImageView fastPic;
     TextView fastName;
+    TextView textView;
 
     public ViewPlaceHolder(View view) {
 
         fastPic = view.findViewById(R.id.fastPic);
         fastName = view.findViewById(R.id.fastName);
+        textView = view.findViewById(R.id.position1);
     }
 }

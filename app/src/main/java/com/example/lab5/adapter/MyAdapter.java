@@ -56,6 +56,7 @@ public class MyAdapter extends BaseAdapter {
 
         viewPlaceHolder.fastPic.setImageResource(listClass.imageId);
         viewPlaceHolder.fastName.setText(listClass.fastFoodName);
+        viewPlaceHolder.textView.setText(listClass.position);
         return convertView;
     }
 
